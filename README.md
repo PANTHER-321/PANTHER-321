@@ -1,9 +1,9 @@
-<!-- 🔷 Animated Blue Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000428&height=230&section=header&text=PANTHER-321&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<!-- 🔷 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000428&height=220&section=header&text=PANTHER-321&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<!-- 🔥 Animated Typing Intro -->
+<!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Algerian&size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=900&lines=Hi+I'm+PANTHER-321;Full+Stack+Developer;Android+Developer;React+%7C+Java+%7C+Firebase;Engineering+Student+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=1E90FF&center=true&vCenter=true&width=850&lines=Hi+I'm+PANTHER-321;Full+Stack+Developer;Android+Developer;React+%7C+Java+%7C+Firebase;Engineering+Student+🚀" />
 </p>
 
 ---
@@ -26,11 +26,10 @@
 
 ---
 
-## 📊 GitHub Analytics (Glass Style)
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PANTHER-321&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=1E90FF&icon_color=1E90FF&hide_border=true" height="170"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANTHER-321&layout=compact&theme=tokyonight&bg_color=00000000&title_color=1E90FF&hide_border=true" height="170"/>
 </p>
 
@@ -47,7 +46,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PANTHER-321&theme=algolia&no-frame=true&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PANTHER-321&theme=algolia&column=6"/>
 </p>
 
 ---
@@ -60,16 +59,7 @@
 
 ---
 
-## 🎵 Spotify (Optional)
-
-<!-- Replace YOUR_SPOTIFY_ID if you want -->
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&bar_color=1E90FF&bar_color_cover=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake (Auto Dark/Light Mode)
+## 🐍 Contribution Snake (Auto Dark / Light Mode)
 
 <p align="center">
 <picture>
