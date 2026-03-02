@@ -12,25 +12,31 @@
 
 - 💻 Full Stack Developer  
 - 📱 Android App Developer  
-- ⚡ React, Java & Firebase Enthusiast  
-- 🔥 Building Realtime & Smart Applications  
+- ⚡ React, Java & Firebase  
+- 🔥 Realtime & Smart Applications  
 - 🎯 Engineering Student  
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### 🧮 Engineering Calculator
+Advanced calculator built with React featuring:
+- Scientific functions
+- Engineering formulas
+- Unit converters
 
-<a href="https://github.com/PANTHER-321/engineering-calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PANTHER-321&repo=engineering-calculator&theme=tokyonight"/>
-</a>
+🔗 https://github.com/PANTHER-321
 
-<a href="https://github.com/PANTHER-321/realtime-chat-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PANTHER-321&repo=realtime-chat-app&theme=tokyonight"/>
-</a>
+---
 
-</p>
+### 💬 Realtime Chat App
+Firebase-powered chat application with:
+- Typing indicators
+- Delivered / Seen status
+- Group chat support
+
+🔗 https://github.com/PANTHER-321
 
 ---
 
@@ -38,7 +44,7 @@
 
 - 🚀 Advanced Realtime Chat Features  
 - 📱 Smart Android Applications  
-- ⚡ Performance Optimized React Apps  
+- ⚡ Performance Optimization  
 
 ---
 
@@ -62,70 +68,34 @@
 
 ---
 
-## ⚡ Skill Levels
+## ⚡ Skill Strength
 
+Java        ██████████ 90%  
+React       ████████░░ 80%  
+Firebase    ███████░░░ 75%  
+UI/UX       ████████░░ 85%  
+
+---
+## 🐍 Contribution Snake
 <p align="center">
-
-<img src="https://progress-bar.dev/90/?title=Java&color=1E90FF"/>
-<br>
-<img src="https://progress-bar.dev/80/?title=React&color=1E90FF"/>
-<br>
-<img src="https://progress-bar.dev/75/?title=Firebase&color=1E90FF"/>
-<br>
-<img src="https://progress-bar.dev/85/?title=UI/UX&color=1E90FF"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" 
+      src="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
 ---
-
-## 📂 More Details (Click to Expand)
-
-<details>
-<summary>📘 Technical Expertise</summary>
-
-- REST API Integration  
-- Firebase Realtime Database  
-- Authentication Systems  
-- State Management  
-- Performance Optimization  
-- Responsive UI Design  
-
-</details>
-
-<details>
-<summary>🎯 Goals</summary>
-
-- Build scalable production apps  
-- Contribute to open source  
-- Master system design  
-- Develop enterprise-grade Android apps  
-
-</details>
-
----
-
-## 🐍 Contribution Snake (Auto Dark / Light Mode)
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
-
----
-
 ## 📄 Resume
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK_HERE">
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-1E90FF?style=for-the-badge"/>
   </a>
 </p>
-
 ---
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -133,9 +103,4 @@
     <img src="https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 ---
-
-⭐ From [PANTHER-321](https://github.com/PANTHER-321)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:1E90FF&height=120&section=footer"/>
