@@ -1,26 +1,37 @@
-<!-- Animated Typing Intro -->
+<!-- 🔷 Animated Blue Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000428&height=230&section=header&text=PANTHER-321&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<!-- 🔥 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Algerian&size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi+I'm+PANTHER-321;Full+Stack+Developer;Android+Developer;React+%7C+Java+%7C+Firebase;Engineering+Student+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Algerian&size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=900&lines=Hi+I'm+PANTHER-321;Full+Stack+Developer;Android+Developer;React+%7C+Java+%7C+Firebase;Engineering+Student+🚀" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full Stack Developer
-- 📱 Android App Developer
-- ⚡ React & Java Enthusiast
-- 🔥 Firebase & Realtime Apps
-- 🎯 Engineering Student
+- 💻 Full Stack Developer  
+- 📱 Android App Developer  
+- ⚡ React, Java & Firebase Enthusiast  
+- 🔥 Building Realtime & Smart Applications  
+- 🎯 Engineering Student  
 
 ---
 
-## 📊 GitHub Stats
+## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PANTHER-321&show_icons=true&theme=tokyonight&title_color=1E90FF&icon_color=1E90FF" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANTHER-321&layout=compact&theme=tokyonight&title_color=1E90FF" height="170"/>
+  <img src="https://komarev.com/ghpvc/?username=PANTHER-321&label=Profile%20Views&color=1E90FF&style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub Analytics (Glass Style)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PANTHER-321&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=1E90FF&icon_color=1E90FF&hide_border=true" height="170"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANTHER-321&layout=compact&theme=tokyonight&bg_color=00000000&title_color=1E90FF&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -28,15 +39,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PANTHER-321&theme=tokyonight&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF"/>
+  <img src="https://streak-stats.demolab.com?user=PANTHER-321&theme=tokyonight&background=00000000&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PANTHER-321&theme=algolia&no-frame=true&column=7"/>
 </p>
 
 ---
@@ -45,6 +56,27 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,react,js,html,css,firebase,mongodb,postgresql,androidstudio,git,github,vscode" />
+</p>
+
+---
+
+## 🎵 Spotify (Optional)
+
+<!-- Replace YOUR_SPOTIFY_ID if you want -->
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&bar_color=1E90FF&bar_color_cover=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Auto Dark/Light Mode)
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
 ---
@@ -60,3 +92,5 @@
 ---
 
 ⭐ From [PANTHER-321](https://github.com/PANTHER-321)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:1E90FF&height=120&section=footer"/>
