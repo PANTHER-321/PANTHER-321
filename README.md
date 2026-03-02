@@ -87,7 +87,9 @@ UI/UX       ████████░░ 85%
       src="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 ---
+
 ## 📄 Resume
 
 <p align="center">
@@ -95,7 +97,9 @@ UI/UX       ████████░░ 85%
     <img src="https://img.shields.io/badge/Download%20Resume-1E90FF?style=for-the-badge"/>
   </a>
 </p>
+
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -103,4 +107,5 @@ UI/UX       ████████░░ 85%
     <img src="https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
 ---
