@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PANTHER-321&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
