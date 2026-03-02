@@ -26,11 +26,10 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PANTHER-321&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=1E90FF&icon_color=1E90FF&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANTHER-321&layout=compact&theme=tokyonight&bg_color=00000000&title_color=1E90FF&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PANTHER-321&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
@@ -38,15 +37,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PANTHER-321&theme=tokyonight&background=00000000&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PANTHER-321&theme=algolia&column=6"/>
+  <img src="https://streak-stats.demolab.com?user=PANTHER-321&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
