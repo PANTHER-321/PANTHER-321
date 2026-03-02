@@ -26,10 +26,54 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧮 Engineering Calculator
+React-based calculator with scientific + engineering formulas.  
+• Scientific functions  
+• Unit converters  
+• Clean UI  
+
+</td>
+
+<td width="50%">
+
+### 💬 Realtime Chat App
+Firebase-based advanced chat application.  
+• Typing indicator  
+• Delivered / Seen status  
+• Group chat support  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔭 Currently Working On
+
+- 🚀 Advanced Realtime Chat Features  
+- 📱 Smart Android Applications  
+- ⚡ Performance Optimized React Apps  
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PANTHER-321&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PANTHER-321&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -42,6 +86,15 @@
 
 ---
 
+## ⚡ Skill Strength
+
+Java        ██████████ 90%  
+React       ████████░░ 80%  
+Firebase    ███████░░░ 70%  
+UI/UX       ███████░░░ 75%  
+
+---
+
 ## 🐍 Contribution Snake (Auto Dark / Light Mode)
 
 <p align="center">
@@ -50,6 +103,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PANTHER-321/PANTHER-321/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Download%20Resume-1E90FF?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
